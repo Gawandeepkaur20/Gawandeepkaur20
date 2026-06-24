@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gawandeep Kaur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align='center'>🎓 B.Tech Computer Science & Engineering Student</h2>
+<h3 align="center">Passionate about Software Development, Artificial Intelligence, and Problem Solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gawandeepkaur20&label=Profile%20views&color=0e75b6&style=flat" alt="gawandeepkaur20" /> </p>
 
