@@ -1,4 +1,16 @@
-<h1 align="center">Hi 👋, I'm Gawandeep Kaur</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;uThis+is+Gawandeep+kaur....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNmOW1jOHFjdTNyZzRoOXI3bDB2b2dweXQ2eTd5bThxZ3F3YmJ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uVhWw4M2puM4bUJgM1/giphy.gif" alt="Coding Girl" width="400"/>
+</p>
+
+
 <h2 align='center'>🎓 B.Tech Computer Science & Engineering Student</h2>
 <h3 align="center">Passionate about Software Development, Artificial Intelligence, and Problem Solving.</h3>
 
