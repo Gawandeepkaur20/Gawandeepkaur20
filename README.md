@@ -21,10 +21,7 @@
  ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 
 ═══════════════════════════════════════════════════════════════════════
-
-             GAWAN OS v5.0
       Artificial Intelligence Developer Terminal
-
 ═══════════════════════════════════════════════════════════════════════
 
 > boot developer
@@ -54,7 +51,7 @@ System Status.............................ONLINE
 
 <td width="38%" align="center">
 
-<img width="850" height="705" alt="image" src="https://github.com/user-attachments/assets/ac475ccd-1d55-4493-92c5-6ea5e9c291d7" />
+<img width="550" height="705" alt="image" src="https://github.com/user-attachments/assets/ac475ccd-1d55-4493-92c5-6ea5e9c291d7" />
 
 
 </td>
@@ -230,22 +227,9 @@ System Design        ██████████████░░░░░�
 
 AI Agents            ███████████░░░░░░░░░ 55%
 
-RAG                  ██████████░░░░░░░░░░ 50%
 ```
 
-# 📊 GitHub Metrics
 
-```text
-Repositories Built       ████████████████████
-
-AI Projects              ██████████████████░
-
-Open Source Learning     ███████████████░░░
-
-Problem Solving          ██████████████████
-
-Innovation               ███████████████████
-```
 
 # 📌 Developer Philosophy
 
@@ -397,21 +381,7 @@ VS Code
 
 ---
 
-# 📈 Developer Progress
 
-```text
-Python             ████████████████████████ 95%
-
-React              █████████████████████░░ 90%
-
-Computer Vision    ████████████████████░░░ 88%
-
-Generative AI      ███████████████████░░░░ 85%
-
-Backend            ███████████████████░░░░ 84%
-
-System Design      ███████████████░░░░░░░░ 72%
-```
 
 ---
 
