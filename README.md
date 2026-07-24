@@ -108,29 +108,7 @@ Mission Status : ACTIVE
 
 ---
 
-# ⚡ Current Focus
 
-```text
-> currently_learning
-
-✓ AI Agents
-
-✓ Generative AI
-
-✓ Large Language Models
-
-✓ Retrieval-Augmented Generation
-
-✓ Computer Vision
-
-✓ Full Stack Architecture
-
-✓ System Design
-
-✓ Cloud Deployment
-```
-
----
 
 # 🛠 Tech Arsenal
 
@@ -148,7 +126,7 @@ Mission Status : ACTIVE
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 </p>
 
@@ -253,6 +231,32 @@ developer.life()
 
 </p>
 
+<details>
+
+<summary>⚠ Unauthorized Access Detected</summary>
+
+```text
+Authenticating...
+
+██████████████████████████
+
+Access Granted.
+
+Welcome Recruiter!
+
+If you're reading this,
+thanks for taking the time to explore my profile.
+
+I enjoy building AI applications that solve practical problems,
+and I'm always excited to learn new technologies.
+
+Feel free to explore my repositories.
+
+Happy Coding 🚀
+```
+
+</details>
+
 # 🌟 Highlights
 
 <table>
@@ -308,8 +312,6 @@ Git
 
 GitHub
 
-Docker
-
 VS Code
 
 </td>
@@ -357,15 +359,6 @@ System Design      ███████████████░░░░░�
 
 ---
 
-<div align="center">
-
-## ⭐ Favorite Quote
-
-*"First solve the problem. Then make it beautiful. Then make it intelligent."*
-
-</div>
-
----
 
 # 💡 Quote
 
@@ -373,10 +366,22 @@ System Design      ███████████████░░░░░�
 
 ---
 
+---
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                             ║
+║             TRANSMISSION SUCCESSFULLY COMPLETED             ║
+║                                                             ║
+║        Thanks for visiting GAWAN OS v5.0 Terminal           ║
+║                                                             ║
+║          "Stay Curious. Build Fearlessly."                 ║
+║                                                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-*"Every repository here represents another step in my journey toward becoming an AI Engineer."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=footer"/>
 
 </div>
