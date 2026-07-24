@@ -67,7 +67,7 @@ System Status.............................ONLINE
 │ CONTACT      :: gawandeep75@gmail.com                                       │
 │ STATUS       :: ONLINE                                                      │
 └─────────────────────────────────────────────────────────────────────────────┘
-```
+
 
 ---
 
@@ -432,3 +432,5 @@ System Design      ███████████████░░░░░�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=footer"/>
 
 </div>
+
+```
