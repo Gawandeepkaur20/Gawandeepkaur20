@@ -53,8 +53,7 @@ System Status.............................ONLINE
 <tr>
 
 <td width="38%" align="center">
-
-<img src="https://raw.githubusercontent.com/Gawandeepkaur20/Gawandeepkaur20/main/images/ascii.png" width="280" alt="ASCII Portrait"/>
+<img src="./images/ascii.png" width="250" alt="ASCII Portrait"/>
 
 
 </td>
