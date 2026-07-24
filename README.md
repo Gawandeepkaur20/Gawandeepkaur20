@@ -47,27 +47,55 @@ System Status.............................ONLINE
 ```
 
 ---
-
 # 💻 System Information
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ USER         :: Gawandeep Kaur                                              │
-│ USERNAME     :: Gawandeepkaur20                                             │
-│ OS           :: Windows 11                                                  │
-│ UPTIME       :: 21 Years                                                    │
-│ KERNEL       :: MirAI B.Tech Student                                        │
-│ HOST         :: Punjabi University, Patiala                                 │
-│ ROLE         :: AI Engineer & Full Stack Developer                          │
-│ EDITOR       :: VS Code                                                     │
-│ LANGUAGES    :: Python • JavaScript • C++ • Java                            │
-│ FRAMEWORKS   :: React • Flask • Express • Node.js                           │
-│ DATABASES    :: MongoDB • MySQL • SQLite • Firebase                         │
-│ HOBBIES      :: AI Engineering • Computer Vision • Open Source              │
-│ CONTACT      :: gawandeep75@gmail.com                                       │
-│ STATUS       :: ONLINE                                                      │
-└─────────────────────────────────────────────────────────────────────────────┘
+<table>
+<tr>
 
+<td width="38%" align="center">
+
+<img src="images/ascii.png" width="280" alt="ASCII Portrait"/>
+
+</td>
+
+<td width="62%">
+
+<pre>
+USER......... Gawandeep Kaur
+USERNAME..... Gawandeepkaur20
+OS........... Windows 11
+UPTIME....... 21 Years
+KERNEL....... MirAI B.Tech Student
+HOST......... Punjabi University, Patiala
+
+ROLE......... AI Engineer & Full Stack Developer
+
+EDITOR....... VS Code
+
+LANGUAGES.... Python • JavaScript • Java • C++
+
+FRAMEWORKS... React • Node.js • Express • Flask
+
+DATABASES.... MongoDB • MySQL • SQLite • Firebase
+
+AI STACK..... Gemini API • YOLOv8 • OpenCV
+              DeepSORT • Prompt Engineering
+
+TOOLS........ Git • GitHub • Postman • VS Code
+
+HOBBIES...... AI Engineering
+              Computer Vision
+              Open Source
+
+CONTACT....... gawandeep75@gmail.com
+
+STATUS........ 🟢 ONLINE
+</pre>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -84,7 +112,7 @@ and great user experience
 to solve meaningful real-world problems.
 
 Mission Status : ACTIVE
-```
+
 
 ---
 
