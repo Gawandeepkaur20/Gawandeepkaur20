@@ -185,17 +185,6 @@ developer.life()
 <!--                 LIVE GITHUB DASHBOARD                     -->
 <!-- ========================================================= -->
 
-# 📊 AI Developer Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gawandeepkaur20&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gawandeepkaur20&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -213,25 +202,7 @@ developer.life()
 
 ---
 
-# 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gawandeepkaur20&theme=matrix&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Gawandeepkaur20/Gawandeepkaur20/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-<details>
 
 <summary>⚠ Unauthorized Access Detected</summary>
 
@@ -311,6 +282,7 @@ Firebase
 Git
 
 GitHub
+
 
 VS Code
 
