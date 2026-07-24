@@ -53,7 +53,8 @@ System Status.............................ONLINE
 <tr>
 
 <td width="38%" align="center">
-<img src="./images/ascii.png" width="250" alt="ASCII Portrait"/>
+
+<img width="850" height="705" alt="image" src="https://github.com/user-attachments/assets/ac475ccd-1d55-4493-92c5-6ea5e9c291d7" />
 
 
 </td>
@@ -113,7 +114,7 @@ to solve meaningful real-world problems.
 
 Mission Status : ACTIVE
 
-
+```
 ---
 
 # 🌐 Connect With Me
