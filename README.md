@@ -1,43 +1,417 @@
+<!-- ========================================================= -->
+<!--                  GAWAN OS v5.0                            -->
+<!-- ========================================================= -->
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;uThis+is+Gawandeep+kaur....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to GAWAN OS v5.0
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00FF7F&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Applications;Always+Learning+Something+New..." />
+
+</div>
+
+---
+
+```text
+██████╗  █████╗ ██╗    ██╗ █████╗ ███╗   ██╗
+██╔════╝██╔══██╗██║    ██║██╔══██╗████╗  ██║
+██║  ███╗███████║██║ █╗ ██║███████║██╔██╗ ██║
+██║   ██║██╔══██║██║███╗██║██╔══██║██║╚██╗██║
+╚██████╔╝██║  ██║╚███╔███╔╝██║  ██║██║ ╚████║
+ ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+
+═══════════════════════════════════════════════════════════════════════
+
+             GAWAN OS v5.0
+      Artificial Intelligence Developer Terminal
+
+═══════════════════════════════════════════════════════════════════════
+
+> boot developer
+
+Loading Python Engine......................✓
+
+Loading React Environment.................✓
+
+Loading AI Models.........................✓
+
+Loading Computer Vision Module............✓
+
+Loading GitHub Portfolio..................✓
+
+Loading Creativity Engine.................✓
+
+System Status.............................ONLINE
+
+═══════════════════════════════════════════════════════════════════════
+```
+
+---
+
+# 💻 System Information
+
+```text
+┌────────────────────────────────────────────────────────────────────┐
+│ USER           :: Gawandeep Kaur                                  │
+│ USERNAME       :: Gawandeepkaur20                                 │
+│ ROLE           :: AI Engineer & Full Stack Developer              │
+│ EDUCATION      :: B.Tech Computer Science Engineering             │
+│ UNIVERSITY     :: Punjabi University, Patiala                     │
+│ CURRENT TRACK  :: MirAI School of Technology                      │
+│ INTERNSHIP     :: AI Builder Track 2026                           │
+│ PREVIOUS ROLE  :: AI Intern @ CodeAlpha                           │
+│ LOCATION       :: Punjab, India                                  │
+│ STATUS         :: Designing AI that solves real-world problems    │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🚀 Mission Statement
+
+```text
+Current Objective:
+
+Design intelligent software that combines
+Artificial Intelligence,
+Full Stack Development,
+Computer Vision,
+and great user experience
+to solve meaningful real-world problems.
+
+Mission Status : ACTIVE
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNmOW1jOHFjdTNyZzRoOXI3bDB2b2dweXQ2eTd5bThxZ3F3YmJ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uVhWw4M2puM4bUJgM1/giphy.gif" alt="Coding Girl" width="400"/>
+
+<a href="https://gawandeep-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gawandeep-kaur-b2671b322">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gawandeep75@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Gawandeepkaur20">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
+---
 
-<h2 align='center'>🎓 B.Tech Computer Science & Engineering Student</h2>
-<h3 align="center">Passionate about Software Development, Artificial Intelligence, and Problem Solving.</h3>
+# ⚡ Current Focus
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gawandeepkaur20&label=Profile%20views&color=0e75b6&style=flat" alt="gawandeepkaur20" /> </p>
+```text
+> currently_learning
 
-- 🔭 I’m currently working on **CodeAlpha AI Internship Projects AI-based applications using Computer Vision and Machine Learning.**
+✓ AI Agents
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning Computer Vision (YOLO, OpenCV) MERN Stack Development Flutter App Development Data Structures & Algorithms**
+✓ Generative AI
 
-- 👯 I’m looking to collaborate on **Open Source AI & Web Development Projects React, MERN Stack, Flutter, and AI-powered applications.**
+✓ Large Language Models
 
-- 🤝 I’m looking for help with **Advanced AI Integration & Deployment Improving real-world AI applications and cloud deployment.**
+✓ Retrieval-Augmented Generation
 
-- 💬 Ask me about **React.js, Node.js, MongoDB, Flutter, MERN Stack, OpenCV, AI Projects, and DSA.**
+✓ Computer Vision
 
-- 📫 How to reach me **gawandeep75@gmail.com**
+✓ Full Stack Architecture
 
-- ⚡ Fun fact **I turn coffee ☕ into code and enjoy building AI-powered solutions.**
+✓ System Design
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gawandeep kaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gawandeep kaur" height="30" width="40" /></a>
+✓ Cloud Deployment
+```
+
+---
+
+# 🛠 Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gawandeepkaur20&show_icons=true&locale=en&layout=compact" alt="Gawandeepkaur20" /></p>
+# 🧠 AI Toolkit
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gawandeepkaur20&show_icons=true&locale=en" alt="Gawandeepkaur20" /></p>
+| Domain | Technologies |
+|---------|--------------|
+| 🤖 Generative AI | Gemini API, Prompt Engineering |
+| 👁️ Computer Vision | YOLOv8, OpenCV, DeepSORT |
+| 💬 AI Chatbots | Python, Flask, Streamlit |
+| 🎨 Image Generation | Pollinations AI |
+| 📊 Data Processing | Pandas, NumPy |
+| 🌐 Full Stack | MERN Stack |
+
+---
+
+# 📌 Developer Philosophy
+
+```python
+class Gawandeep:
+
+    def __init__(self):
+
+        self.goal = "Build AI that creates real impact"
+
+        self.values = [
+            "Learn continuously",
+            "Build consistently",
+            "Share openly",
+            "Improve daily"
+        ]
+
+    def life(self):
+
+        while True:
+
+            learn()
+
+            build()
+
+            debug()
+
+            repeat()
+
+
+developer = Gawandeep()
+
+developer.life()
+```
+
+---
+
+# 💡 Quote
+
+> **"The best projects aren't built to impress people—they're built to solve problems."**
+
+---
+
+<!-- ========================================================= -->
+<!--                 LIVE GITHUB DASHBOARD                     -->
+<!-- ========================================================= -->
+
+# 📊 AI Developer Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gawandeepkaur20&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gawandeepkaur20&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Gawandeepkaur20&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gawandeepkaur20&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gawandeepkaur20&theme=matrix&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+
+
+
+
+
+
+
+---
+
+# 🌟 Highlights
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🤖 AI
+
+Computer Vision
+
+Generative AI
+
+LLMs
+
+Prompt Engineering
+
+</td>
+
+<td align="center">
+
+### 🌐 Web
+
+React
+
+Node.js
+
+Express
+
+Flask
+
+</td>
+
+<td align="center">
+
+### 💾 Database
+
+MongoDB
+
+SQLite
+
+MySQL
+
+Firebase
+
+</td>
+
+<td align="center">
+
+### ⚙ Tools
+
+Git
+
+GitHub
+
+VS Code
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📈 Developer Progress
+
+```text
+Python             ████████████████████████ 95%
+
+React              █████████████████████░░ 90%
+
+Computer Vision    ████████████████████░░░ 88%
+
+Generative AI      ███████████████████░░░░ 85%
+
+Backend            ███████████████████░░░░ 84%
+
+System Design      ███████████████░░░░░░░░ 72%
+```
+
+---
+
+# 🎖 Milestones
+
+```text
+✓ Built multiple AI-powered applications
+
+✓ Developed Full Stack MERN projects
+
+✓ Created Computer Vision solutions
+
+✓ Built Interactive AI Story Engine
+
+✓ Led Web Development Community
+
+✓ Completed AI Internships
+
+✓ Continuously learning cutting-edge AI
+```
+
+---
+<details>
+
+<summary>⚠ Unauthorized Access Detected</summary>
+
+```text
+Authenticating...
+
+██████████████████████████
+
+Access Granted.
+
+Welcome Recruiter!
+
+If you're reading this,
+thanks for taking the time to explore my profile.
+
+I enjoy building AI applications that solve practical problems,
+and I'm always excited to learn new technologies.
+
+Feel free to explore my repositories.
+
+Happy Coding 🚀
+```
+
+</details>
+
+<div align="center">
+
+## ⭐ Favorite Quote
+
+*"First solve the problem. Then make it beautiful. Then make it intelligent."*
+
+</div>
+
+---
+
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                             ║
+║             TRANSMISSION SUCCESSFULLY COMPLETED             ║
+║                                                             ║
+║        Thanks for visiting GAWAN OS v5.0 Terminal           ║
+║                                                             ║
+║          "Stay Curious. Build Fearlessly."                 ║
+║                                                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=footer"/>
+
+</div>
