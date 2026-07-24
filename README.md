@@ -51,18 +51,22 @@ System Status.............................ONLINE
 # 💻 System Information
 
 ```text
-┌────────────────────────────────────────────────────────────────────┐
-│ USER           :: Gawandeep Kaur                                  │
-│ USERNAME       :: Gawandeepkaur20                                 │
-│ ROLE           :: AI Engineer & Full Stack Developer              │
-│ EDUCATION      :: B.Tech Computer Science Engineering             │
-│ UNIVERSITY     :: Punjabi University, Patiala                     │
-│ CURRENT TRACK  :: MirAI School of Technology                      │
-│ INTERNSHIP     :: AI Builder Track 2026                           │
-│ PREVIOUS ROLE  :: AI Intern @ CodeAlpha                           │
-│ LOCATION       :: Punjab, India                                  │
-│ STATUS         :: Designing AI that solves real-world problems    │
-└────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ USER         :: Gawandeep Kaur                                              │
+│ USERNAME     :: Gawandeepkaur20                                             │
+│ OS           :: Windows 11                                                  │
+│ UPTIME       :: 21 Years                                                    │
+│ KERNEL       :: MirAI B.Tech Student                                        │
+│ HOST         :: Punjabi University, Patiala                                 │
+│ ROLE         :: AI Engineer & Full Stack Developer                          │
+│ EDITOR       :: VS Code                                                     │
+│ LANGUAGES    :: Python • JavaScript • C++ • Java                            │
+│ FRAMEWORKS   :: React • Flask • Express • Node.js                           │
+│ DATABASES    :: MongoDB • MySQL • SQLite • Firebase                         │
+│ HOBBIES      :: AI Engineering • Computer Vision • Open Source              │
+│ CONTACT      :: gawandeep75@gmail.com                                       │
+│ STATUS       :: ONLINE                                                      │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -110,6 +114,7 @@ Mission Status : ACTIVE
 
 
 
+
 # 🛠 Tech Arsenal
 
 <p align="center">
@@ -144,6 +149,74 @@ Mission Status : ACTIVE
 | 🌐 Full Stack | MERN Stack |
 
 ---
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 AI Multiverse | AI-powered platform featuring multiple intelligent tools including chatbots, image generation, document analysis, and productivity assistants in one unified application. | Python, Streamlit, Gemini API, Pollinations AI |
+| 👁️ VisionTrack AI | Real-time Object Detection and Multi-Object Tracking system with analytics dashboard, heatmaps, reports, and persistent object tracking. | YOLOv8, DeepSORT, Flask, OpenCV, SQLite |
+| 🛰️ SIGNAL ZERO | Interactive AI-powered sci-fi visual novel with dynamic storytelling, AI-generated visuals, and immersive gameplay. | Streamlit, Gemini API, Pollinations AI, gTTS |
+| 🛍️ Boutique Management System | Full-stack business management platform for boutique operations with customer management, orders, workers, measurements, invoices, analytics, and payment integration. | MERN Stack, MongoDB, Express.js, React, Node.js, Razorpay |
+| 🎨 AI Image Studio | AI image generation platform supporting custom prompts, multiple artistic styles, downloadable images, and an intuitive web interface. | Python, Streamlit, Pollinations AI |
+| 💼 CareerPilot AI | Intelligent career guidance platform providing resume analysis, interview preparation, aptitude practice, and AI-powered career assistance. | MERN Stack, Gemini API, Flask |
+
+# 🎯 Current Mission
+
+```text
+MISSION STATUS
+
+█████████████████████████░░ 90%
+
+Current Objective
+
+✔ Build AI Applications
+
+✔ Master Full Stack Development
+
+✔ Contribute to Open Source
+
+✔ Explore AI Agents
+
+✔ Learn RAG Systems
+
+Next Target
+
+🚀 Software Engineer Internship
+```
+
+# 📚 2026 Learning Roadmap
+
+```text
+Python               ████████████████████ 100%
+
+Machine Learning     ████████████████░░░░ 85%
+
+Generative AI        █████████████████░░░ 88%
+
+Computer Vision      ██████████████████░░ 90%
+
+React                ███████████████████░ 92%
+
+System Design        ██████████████░░░░░░ 70%
+
+AI Agents            ███████████░░░░░░░░░ 55%
+
+RAG                  ██████████░░░░░░░░░░ 50%
+```
+
+# 📊 GitHub Metrics
+
+```text
+Repositories Built       ████████████████████
+
+AI Projects              ██████████████████░
+
+Open Source Learning     ███████████████░░░
+
+Problem Solving          ██████████████████
+
+Innovation               ███████████████████
+```
 
 # 📌 Developer Philosophy
 
@@ -185,6 +258,7 @@ developer.life()
 <!--                 LIVE GITHUB DASHBOARD                     -->
 <!-- ========================================================= -->
 
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -193,7 +267,7 @@ developer.life()
 </div>
 
 ---
-
+# 📈 Contribution Graph
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gawandeepkaur20&theme=github-compact&hide_border=true"/>
@@ -202,31 +276,32 @@ developer.life()
 
 ---
 
+<details>
 
+<summary>👀 Recruiter? Click Here</summary>
 
-<summary>⚠ Unauthorized Access Detected</summary>
+### Thanks for visiting!
 
-```text
-Authenticating...
+I'm an AI Engineer and Full Stack Developer passionate about building intelligent software that solves real-world problems.
 
-██████████████████████████
+#### Current Interests
 
-Access Granted.
+- 🤖 Generative AI
+- 👁 Computer Vision
+- 🌐 Full Stack Development
+- ⚡ AI Automation
 
-Welcome Recruiter!
+#### Portfolio
 
-If you're reading this,
-thanks for taking the time to explore my profile.
+https://gawandeep-portfolio.vercel.app/
 
-I enjoy building AI applications that solve practical problems,
-and I'm always excited to learn new technologies.
+#### Email
 
-Feel free to explore my repositories.
+gawandeep75@gmail.com
 
-Happy Coding 🚀
-```
-
+Let's build something amazing together! 🚀
 </details>
+
 
 # 🌟 Highlights
 
