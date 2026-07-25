@@ -270,7 +270,7 @@ developer.life()
 <!-- ========================================================= -->
 <!--                 LIVE GITHUB DASHBOARD                     -->
 <!-- ========================================================= -->
-#  GitHub Stats
+# ⚡ GitHub Stats
 [![Gawan's GitHub stats](https://github-stats-extended.vercel.app/api?username=Gawandeepkaur20)](https://github.com/stats-organization/github-stats-extended)
 
 # 🔥 GitHub Streak
