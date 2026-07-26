@@ -384,27 +384,6 @@ VS Code
 ---
 
 
-
----
-
-# 🎖 Milestones
-
-```text
-✓ Built multiple AI-powered applications
-
-✓ Developed Full Stack MERN projects
-
-✓ Created Computer Vision solutions
-
-✓ Built Interactive AI Story Engine
-
-✓ Led Web Development Community
-
-✓ Completed AI Internships
-
-✓ Continuously learning cutting-edge AI
-```
-
 ---
 
 
